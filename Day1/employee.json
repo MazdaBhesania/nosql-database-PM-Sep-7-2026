@@ -1,0 +1,17 @@
+"employees": [
+    {
+        "empno": "121211""fname": "Chris""lname": "Chun""phone": "6471234567""hdate": "10-14-2025"
+    },
+    {
+        "empno": "121211""fname": "Chris""lname": "Chun""phone": "6471234567""phone2": "6471234567""hdate": "10-14-2025"
+    },
+    {
+        "empno": "121211""fname": "Chris""lname": "Chun""phone": "6471234567""hdate": "10-14-2025""email": "abc@abc.com"
+    },
+    {
+        "empno": "121211""fname": "Chris""lname": "Chun""phone": "6471234567""hdate": "10-14-2025"
+    },
+    {
+        "empno": "121211""fname": "Chris""lname": "Chun""phone": "6471234567""hdate": "10-14-2025"
+    }
+]
