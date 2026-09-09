@@ -2,7 +2,7 @@
 This guide provides instructions on how to download and install MongoDB locally on Windows, macOS, and Linux.
 ## Windows
 1. **Download the Installer:**
-   - Go to the [MongoDB Download Center](https://www.mongodb.com/try/download/community).
+   - Go to the [MongoDB Download Center](https://www.mongodb.com/try/download/community) [link2](https://www.mongodb.com/try/download/community-edition/releases#:~:text=Msi%3A%20mongodb%2Dwindows%2Dx86_64%2D7.0.41%2Dsigned.msi).
    - Select "Windows" as the platform and "msi" as the package.
    - Click **Download**.
 2. **Run the Installer:**
