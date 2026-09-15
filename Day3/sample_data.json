@@ -1,0 +1,148 @@
+[
+  {
+    "id": "PROD-1001",
+    "sku": "TECH-KB-01",
+    "name": "Mechanical Gaming Keyboard",
+    "category": "Electronics",
+    "subCategory": "Peripherals",
+    "price": 129.99,
+    "stock": 45,
+    "rating": 4.8,
+    "tags": ["gaming", "mechanical", "rgb", "wired"],
+    "specifications": {
+      "switches": "Cherry MX Red",
+      "connectivity": "USB-C",
+      "backlight": "RGB Multi-color",
+      "weightGrams": 850
+    },
+    "isFeatured": true,
+    "createdDate": "2026-01-15T09:30:00Z"
+  },
+  {
+    "id": "PROD-1002",
+    "sku": "TECH-MS-02",
+    "name": "Precision Wireless Mouse",
+    "category": "Electronics",
+    "subCategory": "Peripherals",
+    "price": 59.99,
+    "stock": 110,
+    "rating": 4.6,
+    "tags": ["wireless", "office", "bluetooth", "ergonomic"],
+    "specifications": {
+      "sensor": "Optical 4000 DPI",
+      "connectivity": "Bluetooth / 2.4GHz",
+      "batteryLifeHours": 70,
+      "weightGrams": 95
+    },
+    "isFeatured": true,
+    "createdDate": "2026-02-01T14:15:00Z"
+  },
+  {
+    "id": "PROD-1003",
+    "sku": "FURN-CH-01",
+    "name": "Ergonomic Lumbar Office Chair",
+    "category": "Furniture",
+    "subCategory": "Chairs",
+    "price": 329.00,
+    "stock": 18,
+    "rating": 4.9,
+    "tags": ["office", "ergonomic", "mesh"],
+    "specifications": {
+      "material": "Breathable Mesh",
+      "maxWeightLbs": 300,
+      "reclineDegrees": 135
+    },
+    "isFeatured": false,
+    "createdDate": "2026-02-10T11:00:00Z"
+  },
+  {
+    "id": "PROD-1004",
+    "sku": "FURN-DK-02",
+    "name": "Electric Motorized Standing Desk",
+    "category": "Furniture",
+    "subCategory": "Desks",
+    "price": 499.00,
+    "stock": 12,
+    "rating": 4.7,
+    "tags": ["office", "electric", "standing"],
+    "specifications": {
+      "widthInches": 60,
+      "heightRangeInches": [28, 48],
+      "presetProfiles": 4
+    },
+    "isFeatured": true,
+    "createdDate": "2026-02-20T16:45:00Z"
+  },
+  {
+    "id": "PROD-1005",
+    "sku": "TECH-MN-03",
+    "name": "34-inch Ultrawide Curved Monitor",
+    "category": "Electronics",
+    "subCategory": "Displays",
+    "price": 649.99,
+    "stock": 25,
+    "rating": 4.5,
+    "tags": ["gaming", "display", "curved", "4k"],
+    "specifications": {
+      "refreshRateHz": 144,
+      "resolution": "3440x1440",
+      "panelType": "IPS"
+    },
+    "isFeatured": false,
+    "createdDate": "2026-03-01T08:20:00Z"
+  },
+  {
+    "id": "PROD-1006",
+    "sku": "ACC-HD-01",
+    "name": "Noise Cancelling Studio Headphones",
+    "category": "Audio",
+    "subCategory": "Headphones",
+    "price": 249.50,
+    "stock": 60,
+    "rating": 4.9,
+    "tags": ["audio", "wireless", "anc", "bluetooth"],
+    "specifications": {
+      "noiseCancellation": "Active Hybrid ANC",
+      "batteryLifeHours": 35,
+      "codecs": ["AAC", "aptX", "LDAC"]
+    },
+    "isFeatured": true,
+    "createdDate": "2026-03-05T13:10:00Z"
+  },
+  {
+    "id": "PROD-1007",
+    "sku": "ACC-SP-02",
+    "name": "Compact Waterproof Bluetooth Speaker",
+    "category": "Audio",
+    "subCategory": "Speakers",
+    "price": 79.99,
+    "stock": 85,
+    "rating": 4.4,
+    "tags": ["audio", "waterproof", "portable", "bluetooth"],
+    "specifications": {
+      "waterproofRating": "IPX7",
+      "outputWatts": 20,
+      "batteryLifeHours": 14
+    },
+    "isFeatured": false,
+    "createdDate": "2026-03-08T10:00:00Z"
+  },
+  {
+    "id": "PROD-1008",
+    "sku": "TECH-HB-04",
+    "name": "7-in-1 Multiport USB-C Hub",
+    "category": "Electronics",
+    "subCategory": "Accessories",
+    "price": 39.99,
+    "stock": 140,
+    "rating": 4.3,
+    "tags": ["accessory", "usb-c", "portable"],
+    "specifications": {
+      "hdmiSupport": "4K@60Hz",
+      "powerDeliveryWatts": 100,
+      "portsCount": 7
+    },
+    "isFeatured": false,
+    "createdDate": "2026-03-12T17:00:00Z"
+  }
+]
