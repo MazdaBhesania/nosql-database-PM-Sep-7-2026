@@ -155,7 +155,7 @@ Find all products that have exactly `3` tags in their `tags` array.
 
 ## Part 4: Update Operations
 
-### Task 4.1: Update a Single Field (`$set`)
+### Task 4.1: Update a Single Field  (`$set`)
 Update the product with SKU `"TECH-KB-01"`. Set its `isFeatured` status to `false` and update its `rating` to `4.9`.
 
 ```javascript
